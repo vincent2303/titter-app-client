@@ -1,0 +1,46 @@
+
+.map{
+  width: 100%;
+  height: 100vh;
+}
+
+#tweetBloc{
+  margin: 5vh;
+  width: 40vh;
+  height: 80vh;
+  background-color: white;
+  border-radius: 10px;
+  overflow:  scroll;
+}
+
+#searchBar{
+  margin-top: 5vh;
+  margin-left: 50vh;
+  width: 50%;
+}
+
+#tweetIndic{
+  width: 100%;
+  height: 10vh;
+  border-bottom: 1.2px grey solid
+}
+
+#tweetIndicTitle{
+  margin-top: 1vh;
+  font-size: 3vh;
+  text-align: center
+}
+
+#tweetIndicElem{
+  margin-top: 2vh;
+}
+#pauseBtn{
+  font-size: 10px;
+  font-weight: bold;
+  width: 90%;
+  margin-left: 20%;
+}
+.indicElem{
+  width: 33%;
+  text-align: center;
+}
